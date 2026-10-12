@@ -1,23 +1,19 @@
-# Project Name
+# Basis_Objektorientierung
 
-A short description of the project, its purpose, and the main focus of the implementation.
+Eine kleine Übersicht wie Objektorientierung in JavaScript funktioniert als Übung.
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
-- Feature 4
+- JS-Klassen
 
 ## Technologies
 
 - HTML
-- CSS
 - JavaScript
 
 ## What I Learned
 
-This project is currently in development. The key learnings and technical experience gained during the project will be documented here once the implementation is complete.
+Mit dieser Übung habe ich für mich gelernt wie Objektorientierung mit dem nutzen von Klassen in JavaScript funktioniert.
 
 <!--
 WHAT I LEARNED:
