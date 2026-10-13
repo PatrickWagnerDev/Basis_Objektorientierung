@@ -6,6 +6,6 @@ function addContact(fN, lN) {
     CONTACTS.push(myContact);
 }
 
-addContact('Junus', 'Ergin');
-addContact('Manuel', 'Thaler');
-addContact('Linus', 'Kauer');
+addContact('Junus', 'Ergin', '016364685');
+addContact('Manuel', 'Thaler', '032548454');
+addContact('Linus', 'Kauer', '0354698498');
