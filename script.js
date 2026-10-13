@@ -7,6 +7,7 @@ class Contact {
     constructor(fN, lN) {
         this.firstName = fN;
         this.lastName = lN;
+        console.log('New Contact created!');
     }
 };
 
