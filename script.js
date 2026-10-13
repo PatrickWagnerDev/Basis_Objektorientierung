@@ -1,8 +1,8 @@
 const CONTACTS = [ // JSON = JavaScript Object Notation
 ];
 
-function addContact(fN, lN) {
-    let myContact = new Contact(fN, lN);
+function addContact(fN, lN, ph) {
+    let myContact = new Friend(fN, lN, ph);
     CONTACTS.push(myContact);
 }
 

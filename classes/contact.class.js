@@ -3,7 +3,6 @@
 class Contact {
     firstName;
     lastName;
-    phone;
 
     constructor(fN, lN) {
         this.firstName = fN;
