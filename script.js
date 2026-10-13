@@ -9,12 +9,10 @@ const CONTACTS = [ // JSON = JavaScript Object Notation
 ];
 
 function addContact(fN, lN) {
-    CONTACTS.push(
-        {
-            'firstName':fN,
-            'lastName':lN
-        }
-    );
+    let myContact = new Contact();
+    myContact.firstName = fN,
+    myContact.lastName = lN,
+    CONTACTS.push(myContact);
 }
 
 addContact('Junus', 'Ergin');
