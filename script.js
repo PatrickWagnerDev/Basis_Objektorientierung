@@ -1,3 +1,10 @@
+// Klasse
+// Beschreibung wie ein Objekt aussehen soll / Vorlage
+class Contact {
+    firstName;
+    lastName;
+};
+
 const CONTACTS = [ // JSON = JavaScript Object Notation
 ];
 
